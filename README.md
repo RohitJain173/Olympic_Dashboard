@@ -38,9 +38,7 @@ This analysis will provide insights into the names of Olympic athletes and the m
 
 ## 📂 Project Files
 
-- 📓 Jupyter Notebook: [View Notebook](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_shopping_behavior.ipynb)
-- 🗄 SQL Queries: [View SQL](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour_analysis.sql)
-- 📊 Power BI Dashboard: [Download PBIX](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_behaviour.pbix)
+- 📊 Power BI Dashboard: [Download PBIX](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic.pbix)
 
 
 ## Documentation
