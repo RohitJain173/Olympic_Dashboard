@@ -64,12 +64,17 @@ This analysis will provide insights into the names of Olympic athletes and the m
 
 ## Screenshots
 
-![Dashboard Screenshot]((https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS1.png))
-![Dashboard Screenshot]((https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS2.png))
-![Dashboard Screenshot]((https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS3.png))
-![Dashboard Screenshot]((https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS4.png))
-![Dashboard Screenshot]((https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS5.png))
-![Dashboard Screenshot]((https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS6.png))
+![Dashboard Screenshot](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS1.png)
+
+![Dashboard Screenshot](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS2.png)
+
+![Dashboard Screenshot](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS3.png)
+
+![Dashboard Screenshot](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS4.png)
+
+![Dashboard Screenshot](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS5.png)
+
+![Dashboard Screenshot](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS6.png)
 
 
 
