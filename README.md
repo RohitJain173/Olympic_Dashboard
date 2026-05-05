@@ -4,18 +4,18 @@
 This analysis will provide insights into the names of Olympic athletes and the medals they have won across different sports categories. Key aspects include tracking the total number of medals (Gold, Silver, Bronze) earned by each player and categorizing them based on the specific sport. This will allow for the identification of top-performing athletes in various Olympic events, showcasing who excelled in their respective categories.
 
 ## ❗Business Problem
--Lack of visibility into top-performing athletes and countries
--Difficulty in analyzing medal trends across years
--No centralized view of sport-wise performance
--Limited insights into gender participation and performance
+- Lack of visibility into top-performing athletes and countries
+- Difficulty in analyzing medal trends across years
+- No centralized view of sport-wise performance
+- Limited insights into gender participation and performance
 
 ## 🎯Key Objective
 
--Identify top athletes based on medal count
--Analyze country-wise medal distribution
--Track Olympic performance trends over time
--Compare performance across different sports
--Understand gender participation in Olympics
+- Identify top athletes based on medal count
+- Analyze country-wise medal distribution
+- Track Olympic performance trends over time
+- Compare performance across different sports
+- Understand gender participation in Olympics
 
 
 ## 🛠 Tech Skills
@@ -78,10 +78,10 @@ This project demonstrates how Olympic data can be transformed into meaningful in
 
 ## 🚀 Future Improvements
 
--Add predictive analysis for future Olympic outcomes
--Integrate real-time Olympic data APIs
--Build athlete performance scoring model
--Add advanced drill-down analytics
+- Add predictive analysis for future Olympic outcomes
+- Integrate real-time Olympic data APIs
+- Build athlete performance scoring model
+- Add advanced drill-down analytics
 
 
 ## 🔗 Links
