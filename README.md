@@ -43,10 +43,9 @@ This analysis will provide insights into the names of Olympic athletes and the m
 
 ## Documentation
 
-💠[Report](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Report-Customer%20Behaviour%20Analysis.pdf)
+💠[Report](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/Report.docx)
 
-💠[Presentation](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Customer-Behaviour-Analysis.pdf)
-
+💠[Presentation](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/Olympic%20Presentation.pptx)
 
 ## 📊Key Insights
 
@@ -79,10 +78,10 @@ This project demonstrates how Olympic data can be transformed into meaningful in
 
 ## 🚀 Future Improvements
 
-Add predictive analysis for future Olympic outcomes
-Integrate real-time Olympic data APIs
-Build athlete performance scoring model
-Add advanced drill-down analytics
+-Add predictive analysis for future Olympic outcomes
+-Integrate real-time Olympic data APIs
+-Build athlete performance scoring model
+-Add advanced drill-down analytics
 
 
 ## 🔗 Links
