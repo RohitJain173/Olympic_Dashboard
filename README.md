@@ -1,45 +1,45 @@
-# Olympic_Dashboard
-## Project Description
+# 🏅Olympic_Dashboard
+
+## 📌Project Description
 This analysis will provide insights into the names of Olympic athletes and the medals they have won across different sports categories. Key aspects include tracking the total number of medals (Gold, Silver, Bronze) earned by each player and categorizing them based on the specific sport. This will allow for the identification of top-performing athletes in various Olympic events, showcasing who excelled in their respective categories.
 
-## Business Problem
+## ❗Business Problem
+-Lack of visibility into top-performing athletes and countries
+-Difficulty in analyzing medal trends across years
+-No centralized view of sport-wise performance
+-Limited insights into gender participation and performance
 
-- Low customer retention
-- Ineffective discount strategies
-- Lack of clarity on high-performing products
-- Poor understanding of customer segments
+## 🎯Key Objective
 
-## Key Objective:
-
- To analyze customer behavior and answer critical business questions such as:
-- Who are the high-value customers?
-- Do discounts actually increase sales?
-- Which products and categories generate the most revenue?
-- How does customer behavior vary across segments and seasons?
+-Identify top athletes based on medal count
+-Analyze country-wise medal distribution
+-Track Olympic performance trends over time
+-Compare performance across different sports
+-Understand gender participation in Olympics
 
 
 ## 🛠 Tech Skills
 
-- Python → Data Cleaning & EDA (Pandas, NumPy)
+- Python → Import the data 
 - SQL → Data Analysis & Querying
 - Power BI → Dashboard & Data Visualization
 
-## Dataset
+## 📊Dataset
 
 - <a href="https://drive.google.com/drive/folders/1LYH190BCn13xmn62YQAuzmPhOAYdW97D?usp=sharing"> Olympic Dashboard Data </a>
 
 ## Key Features
-
-- Demographics → Age, Gender
-- Transaction → Purchase Amount, Item, Category
-- Behavior → Previous Purchases, Frequency
-- Business Factors → Discount Applied, Payment Method, Season
-- Feedback → Review Rating
+- Athlete Name
+- Country
+- Sport
+- Event
+- Medal Type (Gold, Silver, Bronze)
+- Year
+- Gender
 
 ## 📂 Project Files
 
 - 📊 Power BI Dashboard: [Download PBIX](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic.pbix)
-
 
 ## Documentation
 
@@ -48,19 +48,16 @@ This analysis will provide insights into the names of Olympic athletes and the m
 💠[Presentation](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/Customer-Behaviour-Analysis.pdf)
 
 
-## Key Insights
+## 📊Key Insights
 
-- 📈 Electronics & Clothing categories contributed the highest revenue.
-- 💸 Customers using discounts showed higher average purchase value.
-- 👥 Loyal customers (repeat buyers) generated the majority of total revenue.
-- 📊 Subscribed users spent more compared to non-subscribed users.
-- 💳 Digital payments were the most preferred payment method.
-- 🌦️ Seasonal trends significantly impacted product demand.
+- 🥇 Certain countries consistently dominate specific sports (e.g., USA in athletics, China in gymnastics)
+- 👤 A small group of athletes contribute significantly to total medals
+- 📈 Olympic participation and medal count have increased over time
+- 🚻 Male athletes have historically dominated, but female participation is steadily increasing
+- 🏃 Athletics and swimming contribute the highest number of medals
 
 
-## Screenshots
-
-## Screenshots
+## 🖼️Screenshots
 
 ![Dashboard Screenshot](https://github.com/RohitJain173/Olympic_Dashboard/blob/main/olympic_SS1.png)
 
@@ -76,17 +73,16 @@ This analysis will provide insights into the names of Olympic athletes and the m
 
 
 
+## 📌Conclusion
 
-
-## Conclusion
-
-This project demonstrates how customer transaction data can be effectively transformed into actionable business insights through a combination of data cleaning, analysis and visualization techniques. By analyzing purchasing patterns, customer segments, discount impact and seasonal trends, the study provides a clear understanding of the key factors influencing revenue and customer retention in an e-commerce environment. The findings highlight the importance of identifying high-value and loyal customers, optimizing discount strategies and leveraging data-driven decision-making to improve marketing effectiveness. Overall, the project showcases how tools like Python, SQL and Power BI can be integrated to solve real-world business problems and support strategic growth initiatives.
+This project demonstrates how Olympic data can be transformed into meaningful insights using data analytics tools. By analyzing medal distribution, athlete performance and country dominance, the dashboard provides a comprehensive view of Olympic trends. It helps stakeholders quickly identify key patterns and make data-driven observations about global sports performance.
 
 ## 🚀 Future Improvements
 
-- Build customer churn prediction model  
-- Implement recommendation system  
-- Automate dashboard with real-time data  
+Add predictive analysis for future Olympic outcomes
+Integrate real-time Olympic data APIs
+Build athlete performance scoring model
+Add advanced drill-down analytics
 
 
 ## 🔗 Links
